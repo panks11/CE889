@@ -1,2 +1,2 @@
 # CE889
-Neural Networks
+Neural Networks Project
